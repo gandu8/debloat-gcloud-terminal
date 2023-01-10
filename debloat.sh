@@ -1,0 +1,19 @@
+sudo apt-get remove -y google-cloud-sdk
+sudo apt-get remove -y  dotnet-sdk-6.0
+sudo apt-get remove -y
+sudo apt-get remove -y qemu-user-static
+sudo apt-get remove -y dotnet-sdk-2.1
+sudo apt-get remove -y openjdk-17-jdk-headless
+sudo apt-get remove -y dotnet-sdk-5.0
+sudo apt-get remove -y openjdk-11-jdk-headless
+sudo apt-get remove -y powershell
+sudo apt-get remove -y dotnet-sdk-3.1
+sudo apt-get remove -y openjdk-17-jre-headless
+sudo apt-get remove -y openjdk-11-jre-headless
+sudo apt-get remove -y aspnetcore-runtime-2.1
+sudo apt-get remove -y postgresql-15
+sudo apt-get remove -y gcc-10
+sudo apt-get remove -y mysql-community-client
+sudo apt-get remove -y kubectl
+sudo apt-get remove -y openjdk-8-jdk-headless
+sudo apt-get remove -y clangd-9
